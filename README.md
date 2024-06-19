@@ -4,4 +4,4 @@
   - HTML
   - CSS
   - JavaScript
-### Github deployment page: #(https://gtouf7.github.io/dramaball/)
+### Github deployment page: https://gtouf7.github.io/dramaball/
