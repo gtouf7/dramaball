@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+/* MAIN SECTION - TEAMS */
+body {
+    margin: 0;
+    font-family: koulen;
+    background-color: #fff;
+}
+h1, h2 {
+    text-align: center;
+    color: #1e1e1e;
+    text-transform: uppercase;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+#ham img {
+    width: 250px;
+    height: 180px;
+}
+
+#juv img {
+    width: 150px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+li {
+    list-style: none;
+}
+
+#teamList {
+    margin-top: 5%;
+}
+
+/* SECONDARY SECTION - VIDEO */
+#section2 {
+    display: none;
+}
+
+#video {
+    position: absolute;
+    left: 35%;
+}
+
+#Rload {
+    background-color: #1e1e1e;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: koulen;
+    border-radius: 30px;
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+}
+
